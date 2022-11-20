@@ -4,7 +4,7 @@ This repo contain a Jupyter Notebbok that present an overview and implement a ve
 
 The Jupyter Notebook book is in this <a href='./notebooks/ml_logistic_regression.ipynb'>link</a>.
 
-For run the Jupyter Notebook online, on Binder, click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/msc2020/ml-linear-regression/HEAD?labpath=notebooks%2Fml_linear_regression.ipynb)
+For run the Jupyter Notebook online, on Binder, click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/msc2020/ml-logistic-regression/HEAD?labpath=notebooks%2Fml_logistic_regression.ipynb)
 
 <br/>
 

@@ -1,6 +1,6 @@
 # ML - Logistic Regression
 
-This repo contain a Jupyter Notebbok that present an overview and implement a version, using Numpy, of Logitic Rregression.
+This repo contains a Jupyter Notebbok that present an overview and implement a version of Logistic Rregression, using Numpy.
 
 The notebook is in this <a href='./notebooks/ml_logistic_regression.ipynb'>link</a>.
 
